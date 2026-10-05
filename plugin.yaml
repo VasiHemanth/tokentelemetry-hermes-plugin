@@ -1,7 +1,7 @@
 # Hermes Agent plugin manifest. Auto-synced by scripts/publish-plugin.sh from
 # the canonical source in github.com/VasiHemanth/tokentelemetry.
 name: tokentelemetry
-version: 0.1.0
+version: 0.1.1
 description: >
   Launcher tab inside Hermes Dashboard for TokenTelemetry — local
   observability for Hermes Agent and 9 coding agents (Claude Code,
